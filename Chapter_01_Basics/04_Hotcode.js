@@ -1,0 +1,1 @@
+//if some code is repetative in nature that is called as hot code
