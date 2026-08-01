@@ -1,0 +1,19 @@
+//compound opertor
+
+let x=10
+x+=10
+console.log(x)  //20
+
+x-=3
+console.log(x)  //17
+
+x*=2
+console.log(x)  //34
+
+x/=17
+console.log(x)  //2
+
+x%=2
+console.log(x)  //0.5
+
+
